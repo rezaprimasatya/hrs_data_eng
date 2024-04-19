@@ -52,7 +52,7 @@ Please, find the deployed dbt warehouse documentation from [here](https://data-e
 # Screenshots
 ### Airflow & DBT
 Two Dags
-![App Screenshot](./screenshots/DAGs.jpg)
+![App Screenshot](./screenshots/dag.png)
 
 Acyclic Graph representation
 ![App Screenshot](./screenshots/Directed%20Asyclic%20Graph.jpg)
@@ -63,10 +63,6 @@ Dbt tasks with graph
 DBT docs
 ![App Screenshot](./screenshots/docs.jpg)
 
-## redash Dashboard
-![App Screenshot](./screenshots/redash-board%20I.jpg)
-
-![App Screenshot](./screenshots/redash-board%20II.jpg)
 
 <br>
 
