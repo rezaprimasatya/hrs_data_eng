@@ -1,0 +1,6 @@
+protobuf==3.20.*
+pandas
+numpy
+azure-servicebus
+dbt-postgres>=1.5.0
+typing_extensions>=3.7.4.3
